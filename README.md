@@ -8,7 +8,7 @@
 
 ```bash
     firebase init hosting
-    npm run build
-    npm run export
+    npm run build or yarn build
+    npm run export or yarn export
     firebase deploy
 ```
